@@ -1,10 +1,8 @@
-package models;
+package ar.com.caece.ids2.barapp.models;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Created by Sebastian Schepens on 15/2/2016.

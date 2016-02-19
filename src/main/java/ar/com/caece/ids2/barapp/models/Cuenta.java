@@ -1,4 +1,4 @@
-package models;
+package ar.com.caece.ids2.barapp.models;
 
 import java.util.ArrayList;
 import java.util.List;

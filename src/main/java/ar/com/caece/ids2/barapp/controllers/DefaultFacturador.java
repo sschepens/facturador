@@ -1,8 +1,8 @@
-package controllers;
+package ar.com.caece.ids2.barapp.controllers;
 
-import exceptions.DuplicateTableException;
-import exceptions.TableNotFoundException;
-import models.*;
+import ar.com.caece.ids2.barapp.exceptions.DuplicateTableException;
+import ar.com.caece.ids2.barapp.exceptions.TableNotFoundException;
+import ar.com.caece.ids2.barapp.models.*;
 
 import java.util.List;
 
