@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Created by Sebastian Schepens on 15/2/2016.
  */
-public class FacturadorController implements Controller {
+public class DefaultFacturador implements Facturador {
     @Override
     public void enviarPedido(Integer mesa, Pedido pedido) throws TableNotFoundException, IllegalArgumentException {
 

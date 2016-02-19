@@ -8,8 +8,8 @@ import org.junit.Test;
 /**
  * Created by Sebastian Schepens on 17/2/2016.
  */
-public class FacturadorControllerCuentaTest {
-    private static Controller facturador = new FacturadorController();
+public class DefaultFacturadorTest {
+    private static Facturador facturador = new DefaultFacturador();
 
     // enviarPedido
 

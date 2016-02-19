@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Created by Sebastian Schepens on 16/2/2016.
  */
-public interface Controller {
+public interface Facturador {
     /**
      * Agrega, modifica o quita un pedido de una mesa de acuerdo al estado del pedido.
      * Lanza {@link IllegalArgumentException} si el {@link Pedido} es invalido.
