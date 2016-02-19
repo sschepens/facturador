@@ -1,4 +1,4 @@
-package ar.com.caece.ids2.barapp.models;
+package ar.com.caece.ids2.barapp.facturacion.models;
 
 /**
  * Created by Sebastian Schepens on 15/2/2016.

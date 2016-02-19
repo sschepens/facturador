@@ -1,13 +1,13 @@
-package ar.com.caece.ids2.barapp.models;
+package ar.com.caece.ids2.barapp.facturacion.models;
 
 /**
  * Created by Sebastian Schepens on 18/2/2016.
  */
-public class DetallePlato {
+public class DetalleBebida {
     private Integer code;
     private Integer cantidad;
 
-    public DetallePlato(Integer code, Integer cantidad) {
+    public DetalleBebida(Integer code, Integer cantidad) {
         this.code = code;
         this.cantidad = cantidad;
     }
@@ -17,6 +17,6 @@ public class DetallePlato {
     }
 
     public Integer getCantidad() {
-        return this.cantidad;
+        return cantidad;
     }
 }
